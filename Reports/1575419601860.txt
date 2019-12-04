@@ -1,0 +1,31 @@
+Total links on Website: 62
+Total unique links ==> 21
+Total broken links! ==> 21
+>>> List of broken links: <<<
+http://www.mercury-tours.com/Coach_Pics/Bus_11.html
+http://www.mercury-tours.com/Coach_Pics/Bus_14.html
+http://www.mercury-tours.com/Coach_Pics/Van_2.html
+http://www.mercury-tours.com
+http://www.mercury-tours.com/Coach_Pics/Van_3.html
+http://www.mercury-tours.com/Coach_Pics/Bus_15.html
+http://www.mercury-tours.com/Coach_Pics/Bus_22.html
+http://www.mercury-tours.com/Coach_Pics/Bus_25.html
+http://www.mercury-tours.com/Coach_Pics/Van_1.html
+http://www.mercury-tours.com/Coach_Pics/Bus_12.html
+http://www.mercury-tours.com/Coach_Pics/Bus_23.html
+http://www.mercury-tours.com/Specialized_Tours.html
+http://www.mercury-tours.com/Coach_Pics/Van_4.html
+http://www.mercury-tours.com/Contact_Us.html
+http://www.mercury-tours.com/More%20of%20Where%20we%20Go.html
+http://www.mercury-tours.com/Coach_Pics/Bus_24.html
+http://www.mercury-tours.com/Our_Coaches.html
+http://www.mercury-tours.com/Coach_Pics/Bus_21.html
+http://www.mercury-tours.com/San_Francisco_Tours.html
+http://www.mercury-tours.com/Coach_Pics/Bus_13.html
+http://www.mercury-tours.com/Coach_Pics/Van_5.html
+
+===============================================
+Default Suite
+Total tests run: 1, Failures: 0, Skips: 0
+===============================================
+

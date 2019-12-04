@@ -1,0 +1,12 @@
+
+Total links on Website: 62
+Total unique links ==> 21
+Broken links ==> 0
+
+>>>>>>>>> List of broken links: <<<<<<<<<
+
+===============================================
+Default Suite
+Total tests run: 1, Failures: 0, Skips: 0
+===============================================
+
